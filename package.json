@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "description": "A Harp App on Heroku",
     "dependencies": {
-      "harp": "*"
+        "express": "^4.17.1"
     }
-  }
+}
